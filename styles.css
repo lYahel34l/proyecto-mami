@@ -66,7 +66,7 @@ body {
 
 h1, h2, h3 {
     font-family: 'Playfair Display', serif; /* Fuente elegante para títulos */
-    color: #4A148C; /* Color del título */
+    color: #f1f1f1; /* Color del título */
     text-align: center; /* Centrar los títulos */
 }
 
