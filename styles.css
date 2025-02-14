@@ -10,7 +10,7 @@ body {
 /* Estilos para el carrusel */
 .carousel-container {
     width: 90%; /* Ajusta al ancho de la pantalla */
-    max-width: 600px; /* Más ancho en móviles */
+    max-width: 500px; /* Más ancho en móviles */
     margin: 0 auto;
     position: relative;
     overflow: hidden;
