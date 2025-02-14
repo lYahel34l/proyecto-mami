@@ -23,7 +23,7 @@ body {
 }
 .carousel-slide img {
     width: 100%;
-    height: 400px;
+    height: 600px;
     object-fit: contain; /* Ajusta la imagen sin deformarla */
     display: block;
     margin: auto; /* Centra la imagen si es más pequeña */
